@@ -9,7 +9,7 @@ body{
     margin: 0;
     background-image: url(./images/bg-mobile.svg);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     background-color: var(--violet);
     font-family: 'Poppins', sans-serif;
     color: var(--text-color);
@@ -28,7 +28,7 @@ header img{
 
 .main-info{
     text-align: center;
-    margin: 20px 45px;
+    margin: 50px 30px;
 }
 
 .main-info p{
