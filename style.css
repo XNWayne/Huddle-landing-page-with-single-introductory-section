@@ -105,7 +105,6 @@ Attribution
 
     header img{
         margin-left: 70px;
-        margin-top: 50px;
         width: 200px;
     }
 
@@ -119,7 +118,7 @@ Attribution
 
     .main-info{
         width: 400px;
-        margin-top: 170px;
+        margin-top: 150px;
         text-align: left;
     }
 
@@ -141,7 +140,5 @@ Attribution
         left: 500px;
     }
 
-    .attribution{
-        margin-top: -40px;
-    }
+
 }
